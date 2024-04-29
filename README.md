@@ -8,11 +8,9 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-- I am a Full Stack Software Developer.
+- I am a Full Stack Developer.
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- I’m working as a Senior IT consultant and building large scale web applications.
-- Authoring and blogging about emerging technologies.
-- Share knowledge through meetups and twitter.
+- I’m currently working in MyTeam11 as SDE 1.
 
 #### :fire: My Stats :
 <a href="https://github.com/iamrohankaushik">
