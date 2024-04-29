@@ -9,17 +9,21 @@
 
 #### 💻 &nbsp; About Me :
 - I am a Full Stack Software Developer.
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - I’m working as a Senior IT consultant and building large scale web applications.
 - Authoring and blogging about emerging technologies.
 - Share knowledge through meetups and twitter.
 
+#### :fire: My Stats :
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrohankaushik&theme=dark&background=000000)](https://git.io/streak-stats) 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrohankaushik&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
 
 <a href="https://github.com/iamrohankaushik">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Rohan's most used languages" />
 </a>
 <a href="https://github.com/iamrohankaushik">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrohankaushik&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrohankaushik&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="iamrohankaushik's github stats"/>
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
